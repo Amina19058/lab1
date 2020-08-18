@@ -1,0 +1,29 @@
+    1  [2020-08-18 15:17:21] touch week1
+    2  [2020-08-18 15:22:45] ~
+    3  [2020-08-18 15:22:58] touch week1
+    4  [2020-08-18 15:24:13] mkdir week1
+    5  [2020-08-18 15:24:51] cd ~/week1
+    6  [2020-08-18 15:27:31] ls 
+    7  [2020-08-18 15:28:23] mkdir ~/week01
+    8  [2020-08-18 15:28:36] cd ~/week01
+    9  [2020-08-18 15:29:46] ~/week01/ex1.txt
+   10  [2020-08-18 15:32:09] ls /usr/bin -r
+   11  [2020-08-18 15:34:45] ls /usr/bin | sort -r | grep "gcc"
+   12  [2020-08-18 15:41:36] ls /usr/bin | sort -r | grep "gcc" > ~/week01/ex1.txt
+   13  [2020-08-18 15:46:47] history > ex2.txt
+   14  [2020-08-18 15:49:46] ex3.sh stdout date
+   15  [2020-08-18 15:51:20] touch ex3.sh
+   16  [2020-08-18 15:57:06] now=$(date)
+   17  [2020-08-18 15:57:56] echo "Current date: $now"
+   18  [2020-08-18 16:00:04] nano ex3.sh
+   19  [2020-08-18 16:01:13] apd -get install nano
+   20  [2020-08-18 16:01:33] apt -get install nano
+   21  [2020-08-18 16:01:51] apt-get install nano
+   22  [2020-08-18 16:02:28] nano ex3.sh
+   23  [2020-08-18 16:05:49] apt-get install nano
+   24  [2020-08-18 16:10:26] mkdir ~/week1
+   25  [2020-08-18 16:14:35] mkdir ~/week001
+   26  [2020-08-18 16:14:53] cd ~/week001
+   27  [2020-08-18 16:18:00] ls /usr/bin | grep "gcc" | sort -r
+   28  [2020-08-18 16:19:26] ls /usr/bin | grep "gcc" | sort -r > ~/week001/ex001.txt
+   29  [2020-08-18 16:20:29] history > ex002.txt
